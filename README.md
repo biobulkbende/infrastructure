@@ -1,3 +1,3 @@
 # infrastructure
 
-Configurations for the Biobulkbende infrastructure.
+Co-op Cloud configurations for Biobulkbende.
