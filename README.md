@@ -1,3 +1,5 @@
 # infrastructure
 
-Co-op Cloud configurations for Biobulkbende.
+> **warning**: these are not used anymore
+
+[Co-op Cloud](https://coopcloud.tech) configurations for Biobulkbende.
